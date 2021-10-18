@@ -8,6 +8,5 @@ def test_add_numbers():
     
 
 def test_name():
-    assert _Roman.name == "Rom"
+    assert _Roman.name == "Roman"
         
-
